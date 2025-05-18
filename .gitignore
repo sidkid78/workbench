@@ -1,0 +1,5 @@
+# Environment variables
+backend/.env
+
+# Previous .gitignore content if any would be preserved by the tool
+# if this file already exists and this edit is appended. 
